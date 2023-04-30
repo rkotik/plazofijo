@@ -1,0 +1,8 @@
+.text-right {
+  text-align: right;
+}
+
+#resultado {
+  min-height: 38px;
+  background: rgb(217, 217, 217);
+}
